@@ -36,9 +36,7 @@ TP9DPBO2526C2/
 │       ├── lowongan_skin.html          # Template tabel lowongan
 │       └── lowongan_form.html          # Template form lowongan
 ├── dokumentasi/
-│   ├── README.md                       # Panduan & placeholder screenrecord
-│   ├── screenrecord_kandidat.mp4       # [belum diunggah]
-│   └── screenrecord_lowongan.mp4       # [belum diunggah]
+│   ├── Demo.mp4       # Video Demo Program
 ├── mvp_db.sql                          # Export terbaru: kandidat + lowongan
 └── README.md                           # File ini
 ```
