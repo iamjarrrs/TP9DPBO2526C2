@@ -148,3 +148,6 @@ Diagram di atas merupakan ringkasan visual; alur programnya dijelaskan lebih len
 
 ---
 ## Dokumentasi
+
+https://github.com/user-attachments/assets/2f502b25-80f1-4dad-95ff-7f7feac17628
+
